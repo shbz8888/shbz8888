@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @shbz8888
 - 👀 I’m interested in programming and mechatronics
 - 🌱 I’m currently learning about software, cloud and data engineering
+- Please look at my data pipeline repository to see a completed data pipeline
+- Hangman contains my script from when I was learning python and computer vision is an AI (OpenCV) project
 - 📫 How to reach me: shbz8888@gmail.com
 
 <!---
