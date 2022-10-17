@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shbz8888
 - 👀 I’m interested in programming and mechatronics
-- 🌱 I’m currently learning Python for data science
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning about software, cloud and data engineering
 - 📫 How to reach me: shbz8888@gmail.com
 
 <!---
